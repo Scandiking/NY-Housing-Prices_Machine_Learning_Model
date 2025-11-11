@@ -2,7 +2,13 @@
 ## AI3000R
 ### University of South-Eastern Norway
 
+### What is this?
+
 This is an assignment in the course Artificial Intelligence for Business Applications at the Information Technology and Information Systems Bachelor programme at University of South-Eastern Norway given in order to assess whether we qualify for the exam.
+
+### Who is it for?
+
+It is used for my [portfolio website](https://scandiking.github.io/TvenningsPortfolio). It is simply used as a showcase for the work we have put in at university and for employers to have some material to assess as I am soon graduating.
 
 ### Assignment text
 
