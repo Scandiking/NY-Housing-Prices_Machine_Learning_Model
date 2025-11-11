@@ -11,7 +11,7 @@ This is an assignment in the course Artificial Intelligence for Business Applica
 It is used for my [portfolio website](https://scandiking.github.io/TvenningsPortfolio). It is simply used as a showcase for the work we have put in at university and for employers to have some material to assess as I am soon graduating.
 
 ### Assignment text
-
+```markdown
 Develop a concise plan illustrating the integration of Artificial Intelligence (AI) in a selected business area, showing how AI can enhance processes, reduce costs, or increase revenue. The group will select a topic that focuses on AI’s ability to improve processes, lower expenses, or maximize revenue in a specific business application. Based on the chosen topic, create a business plan highlighting AI’s role, develop and describe the model, and present both its benefits and challenges. You may choose from the provided topics or propose your own, with instructor’s approval. You are encouraged to adapt the structure to fit your topic while covering all essential elements. This assignment will prepare you for real-world AI applications as well as the final exam. Example structure:
 
 1. __Instruction__ - Team introduction, problem definition, goal statement, the market and competitive landscape, benefits, and risks of applying AI, etc.
@@ -27,6 +27,7 @@ Your report should clearly state the aim and rationale for choosing the topic, d
 __Important:__
 - No plagiarism!
 - Include references; consult the library for assistance if needed.
+```
 
 ### Files
 - See the `.ipynb` file for the AI model.
