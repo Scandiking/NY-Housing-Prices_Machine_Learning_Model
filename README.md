@@ -25,4 +25,10 @@ __Important:__
 ### Files
 - See the `.ipynb` file for the AI model.
 - See the `.docx` file for the business model, management strategy, etc.
+- You need to go to Kaggle and downloaded the `NY-House-Dataset.csv` file [from here](https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market/). I would include it in the repo if the license was public domain, CC0 or similar, but it is not.
+
+### How to run
+- Download the files, and keep them in the same folder.
+- Open the `.ipynb` file in your IDE that supports Jupyter Notebook-files.
+- Run all snippets at once, or one by one.
 
